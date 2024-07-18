@@ -1,0 +1,14 @@
+{
+  "name": "zmyrep1",
+  "version": "1.0.0",
+  "description": "ZMYREP1",
+  "repositoryLayout": {
+    "formatVersion": 6,
+    "format": "json",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false",
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/CAF4E536D9081EEF91A10656EE561DA1_0"
+  }
+}
